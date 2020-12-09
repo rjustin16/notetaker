@@ -1,4 +1,4 @@
-const savedNotes = require("../Develop/db/db.json");
+const savedNotes = require("../db/db.json");
 const fs = require("fs");
 const uuid = require("uuid");
 
